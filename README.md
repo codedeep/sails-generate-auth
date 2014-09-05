@@ -35,14 +35,14 @@ Certain generators are installed by default in Sails, but they can be overridden
 In order to use a generator you will need the latest Sails, ~0.10, which can be installed with:
 
 ```sh
-npm install sails@beta -g
+$ npm install sails@beta -g
 ```
 
-<!--
+Install custom generator in sails.js globaly
+
 ```sh
-$ npm install sails-generate-auth
+$ npm install sails-generate-auth -g
 ```
--->
 
 
 ### Production Usage
